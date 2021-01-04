@@ -4,3 +4,5 @@ Code coming from working through different Microsoft Learn curriculum.  Each scr
 
 * vnetPeering - https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/
 * trainTrafficManager - https://docs.microsoft.com/en-us/learn/modules/distribute-load-with-traffic-manager/
+* loadBalancer - https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer
+
