@@ -6,9 +6,9 @@ pw=XyzAbc.12345
 az vm create \
     --resource-group $rg \
     --no-wait \
-    --name MarketingVM \
+    --name SalesVM \
     --location northeurope \
-    --vnet-name MarketingVNet \
+    --vnet-name SalesVNet \
     --subnet Apps \
     --image UbuntuLTS \
     --admin-username azureuser \
