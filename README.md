@@ -6,4 +6,5 @@ Code coming from working through different Microsoft Learn curriculum.  Each scr
 * trainTrafficManager - https://docs.microsoft.com/en-us/learn/modules/distribute-load-with-traffic-manager/
 * loadBalancer - https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer
 * appGateway - https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway
+* trafficFlow - https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/
 
