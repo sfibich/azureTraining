@@ -42,9 +42,3 @@ az network application-gateway create \
 	--private-ip-address 10.0.0.4 \
 	--frontend-port 8080
 
-az network application-gateway auth-cert create \
-    --resource-group $rg \
-    --gateway-name vehicleAppGateway \
-    --name P2SRootCert.cer \
-    --cert-file ~/P2SRootCert.cer
-
