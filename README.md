@@ -6,6 +6,7 @@ Scripts are expected to be executed from the directory they are reside.  Other f
 
 * appGateway - https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway
 * appGatewayEnrypt - https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway
+* azureStorage - https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/
 * designAddress - https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/
 * hubAndSpoke - 
 * loadBalancer - https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer
