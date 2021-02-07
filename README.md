@@ -5,6 +5,7 @@ Code coming from working through different Microsoft Learn curriculum.  Each scr
 Scripts are expected to be executed from the directory they are reside.  Other files used by the scripts are accessed based on that assumption.
 
 * appGateway - https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway
+* batch - https://docs.microsoft.com/en-us/learn/modules/run-parallel-tasks-in-azure-batch-with-the-azure-cli/
 * appGatewayEnrypt - https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway
 * azureStorage - https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/
 * designAddress - https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/

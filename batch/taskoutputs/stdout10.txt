@@ -1,0 +1,2 @@
+AZ_BATCH_TASK_ID=mytask10 processed by
+AZ_BATCH_NODE_ID=tvmps_28538fe4746e2ac95f605a5e883ad91296f77f3dd3e8eead25325f8c413bd949_d
