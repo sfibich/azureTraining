@@ -12,6 +12,7 @@ Scripts are expected to be executed from the directory they are reside.  Other f
 * loadBalancer - https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer
 * trafficFlow - https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/
 * networkMonitor -
+* monitor - https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/
 * secureNetwork - https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/
 * trainTrafficManager - https://docs.microsoft.com/en-us/learn/modules/distribute-load-with-traffic-manager/
 * vnetPeering - https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/
